@@ -45,10 +45,6 @@ Certifique-se de que todas as conexões de hardware estejam feitas corretamente 
    deactivate
    ```
 
-## Video
-
-[Link video]()
-
 ## Observações
 
 - Para interromper o programa com segurança, pressione `Ctrl+C`.
